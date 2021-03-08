@@ -29,7 +29,7 @@ Steps to install application:
 4.  run node Server.js in your CLI
 5. Type http://localhost:8080 in you browser.
 
-This app is live on <a href="https://fathomless-brushlands-57548.herokuapp.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a>
+This app is live on <a href="https://blooming-cliffs-57891.herokuapp.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a>
 
 ```
 git clone git@github.com:ChristianKapita/Burger.git
