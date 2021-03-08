@@ -8,7 +8,7 @@ var connection;
     host:"localhost",
     port: 3306,
     user: "root",
-    password: "@87@ZIpi@@",
+    password: "password", //Use your own password
     database: "burgers_db"
 })
  }

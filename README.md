@@ -41,9 +41,8 @@ node  Server.js
 ## Usage
 ### Screenshots
 
-1. Working app
 
-![Alt Text](https://media.giphy.com/media/wSMpG93ieVr1iZjm6l/giphy.gif)
+![Working App-Eat da burger](https://user-images.githubusercontent.com/73804862/110275497-24de2d00-7f9f-11eb-93ba-4844e2a93b56.PNG))
 
 ## Credits
 
