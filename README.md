@@ -29,7 +29,7 @@ Steps to install application:
 4.  run node Server.js in your CLI
 5. Type http://localhost:8080 in you browser.
 
-The app Note Taker is live on <a href="https://fathomless-brushlands-57548.herokuapp.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a>
+This app is live on <a href="https://fathomless-brushlands-57548.herokuapp.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a>
 
 ```
 git clone git@github.com:ChristianKapita/Burger.git
@@ -62,7 +62,7 @@ node  Server.js
     <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge" alt="Javascript" /></a>
     <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge" alt="Bootstrap" /></a>
     <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/-Node-orange?style=for-the-badge" alt="Node" /></a>
-    <a href="https://www.npmjs.com/package/inquirer"><img src="https://img.shields.io/badge/-Inquirer-blue?style=for-the-badge" alt="Handlebars" /></a>
+    <a href="https://www.npmjs.com/package/inquirer"><img src="https://img.shields.io/badge/-Handlebars-blue?style=for-the-badge" alt="Handlebars" /></a>
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql" /></a>
 </p>
 
